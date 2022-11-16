@@ -1,0 +1,29 @@
+{
+  "name": "i-if",
+  "version": "1.0.0",
+  "description": "Conditionally add elements to object/array",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/all-bear/i-if.git"
+  },
+  "keywords": [
+    "conditionally",
+    "insert",
+    "object",
+    "array"
+  ],
+  "author": "Oleh Biriukov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/all-bear/i-if/issues"
+  },
+  "homepage": "https://github.com/all-bear/i-if#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
