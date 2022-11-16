@@ -1,1 +1,1 @@
-export declare function insertInArrayIf<TElement>(condition: boolean, ...elements: TElement[]): TElement[];
+export declare function insertIntoArrayIf<TElement>(condition: boolean, ...elements: TElement[]): TElement[];

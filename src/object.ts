@@ -1,3 +1,3 @@
-export function insertInObjectIf<TObject>(condition: boolean, obj: TObject): TObject {
+export function insertIntoObjectIf<TObject>(condition: boolean, obj: TObject): TObject {
     return condition ? obj : {} as TObject;
 }

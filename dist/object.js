@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.insertInObjectIf = void 0;
-function insertInObjectIf(condition, obj) {
+exports.insertIntoObjectIf = void 0;
+function insertIntoObjectIf(condition, obj) {
     return condition ? obj : {};
 }
-exports.insertInObjectIf = insertInObjectIf;
+exports.insertIntoObjectIf = insertIntoObjectIf;
