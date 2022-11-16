@@ -1,6 +1,6 @@
 {
   "name": "insert-into-if",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conditionally add elements to object/array",
   "main": "dist/index.js",
   "scripts": {
